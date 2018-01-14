@@ -3,5 +3,5 @@ The objective of this assignment is to write a new implementation of the Euclide
 
 ### Contents
 
-[Sample input data file](https://github.com/saransh-ag/nmf/blob/netbeans-dir/bbcnews-sample-output.pdf)
-[Final Report](https://github.com/saransh-ag/nmf/blob/netbeans-dir/COMP%2041450_Assignment_SAgarwal.pdf)
+* [Sample input data file](https://github.com/saransh-ag/nmf/blob/netbeans-dir/bbcnews-sample-output.pdf)
+* [Final Report](https://github.com/saransh-ag/nmf/blob/netbeans-dir/COMP%2041450_Assignment_SAgarwal.pdf)
